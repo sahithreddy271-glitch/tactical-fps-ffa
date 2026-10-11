@@ -25,5 +25,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/sahithreddy271-glitch/tactical-fps-ffa:newest
+          tags: ghcr.io/sahithreddy271-glitch/tactical-fps-ffa:newone
         
