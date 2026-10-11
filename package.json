@@ -1,8 +1,0 @@
-{
-  "name": "tactical-fps-server",
-  "version": "1.0.0",
-  "description": "1v1 matchmaking server for Tactical FPS Arena 3D",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "ws": "^8.18.0" }
-}
